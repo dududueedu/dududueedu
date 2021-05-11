@@ -8,7 +8,8 @@
 <div align="center">
   <span> Contatos: </span>
   
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&align=center)](mailto:eduardooffside@alu.ufc.br)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:eduardooffside@alu.ufc.br)
+  
   <div>
   <a href="https://www.facebook.com/profile.php?id=100005503066960">
     <img src="https://img.shields.io/badge/Face-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
