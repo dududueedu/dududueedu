@@ -1,11 +1,12 @@
 <!--
 **dududueedu/dududueedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 🗣️ Hello! Welcome to my profile. 
-### :man_technologist: Eduardo Silva 
-
 
 <div align="center">
+  
+## 🗣️ Hello! Welcome to my profile. 
+### :man_technologist: Eduardo Silva 
+  
   <span> Contatos: </span>
   
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:eduardooffside@alu.ufc.br)
