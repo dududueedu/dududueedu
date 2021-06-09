@@ -15,10 +15,10 @@
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/du.dudu.e.edu.__/">
-      <img src="https://img.shields.io/badge/Insta-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100005503066960">
-      <img src="https://img.shields.io/badge/Face-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
     </a>
   </div>
 </div>
